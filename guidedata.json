@@ -2,9 +2,9 @@
 	"ADS":
 		   {
 		
-			"banner_type":"facebook",
+			"banner_type":"admob",
 			"inter_type":"admob",
-			"native_type":"facebook",
+			"native_type":"admob",
 			"GandW": "wall",
 			
 			
@@ -12,8 +12,8 @@
 			
 			
 			
-			"banner_admob":"ca-app-pub56099942",
-			"interstitial_admob":"ca-app-pub-567",
+			"banner_admob":"ca-app-pub-4459830934377915/5069509609",
+			"interstitial_admob":"ca-app-pub-4459830934377915/7860513845",
 			"native_admob":"ca-app-pub-4567",
 			 "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",  
    
